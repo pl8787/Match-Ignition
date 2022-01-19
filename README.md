@@ -18,6 +18,7 @@ sh switch_version.sh 1
 cd data
 tar xzvf orig.tar.gz
 ```
+Note: the original dataset can be downloaded from [here](https://github.com/BangLiu/ArticlePairMatching).
 
 ### Sentence-level Noise Filtering
 ```bash
