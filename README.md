@@ -32,7 +32,7 @@ python run.py
 
 ## Citation
 
-If you use SetRank in your research, please use the following BibTex entry.
+If you use Match-Ignition in your research, please use the following BibTex entry.
 
 ```
 @inproceedings{pang2021matchignition,
